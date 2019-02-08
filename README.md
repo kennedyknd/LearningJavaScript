@@ -1,4 +1,4 @@
-# JavaWeb
+# LearningJavaScript
 
 O repositório serve para demonstrar meus estudos na Linguagem JavaScript.
 
